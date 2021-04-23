@@ -1,2 +1,2 @@
 # nlw05
-NLW 05
+Criação do podcastr - site para ouvir episódios de Podcast utilizando React e Next.
